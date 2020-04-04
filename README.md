@@ -1,3 +1,4 @@
 # Example Repository
 
-This is a sample repo, Hello World!
+This is a sample repo, Hello World! I am testing the diff command
+
